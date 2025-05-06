@@ -13,8 +13,8 @@ p {
 }
 
 .toggle-theme {
-    width: 19px;
-    height: 16px;
+    width: 74px;
+    height: 41px;
     margin-right: 0;
 }
 
@@ -25,5 +25,12 @@ body.light-mode {
 
 body.dark-mode {
     background-color: black;
+    color: white;
+}
+
+body.light-mode h1{
+    color: black;
+}
+body.light-mode h1{
     color: white;
 }
