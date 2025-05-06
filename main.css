@@ -12,7 +12,7 @@ p {
     font-size: 20px;
 }
 
-toggle-theme {
+.toggle-theme {
     width: 19px;
     height: 16px;
     margin-right: 0;
