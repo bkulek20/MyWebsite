@@ -31,6 +31,6 @@ body.dark-mode {
 body.light-mode h1{
     color: black;
 }
-body.light-mode h1{
+body.dark-mode h1{
     color: white;
 }
