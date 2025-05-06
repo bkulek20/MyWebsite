@@ -1,13 +1,20 @@
 body {
     background-color: lightblue;
-  }
+}
   
-  h1 {
+h1 {
     color: white;
     text-align: center;
-  }
+}
   
-  p {
+p {
     font-family: verdana;
     font-size: 20px;
-  }
+}
+
+toggle-theme {
+    width: 19px;
+    height: 16px;
+    margin-right: 0;
+}
+
